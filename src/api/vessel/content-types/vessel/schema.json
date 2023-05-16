@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vessels",
+  "info": {
+    "singularName": "vessel",
+    "pluralName": "vessels",
+    "displayName": "vessel"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "capacity": {
+      "type": "integer"
+    }
+  }
+}
